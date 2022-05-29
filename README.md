@@ -11,3 +11,12 @@ An organization has multiple departments, activities, works, groups and many oth
  * JavaScript
 
 ### Features
+* Powerful, yet easy to use
+* Fast live AJAX search
+* Beautiful design
+* Unlimited articles and topics
+* List and box view
+* Fully responsive
+* Estimated reading time in articles
+* Views count in articles
+* FAQs Page
